@@ -1,3 +1,10 @@
+// Corrected code retry
+window.alert("This is an alert! Javascript is running!");
+
+
+
+
+/* First try JS code
 var playerName = window.prompt("What is your robot's name?");
 var playerHealth = 100;
 var playerAttack = 10;
@@ -25,5 +32,5 @@ var fight = function() {
 
 fight();
 
-/* This is a comment */
+ This is a comment */
 
